@@ -1,0 +1,9 @@
+# popclip
+name: Cubox
+options:
+  - identifier: "APIURL"
+    label: "Cubox API 链接"
+    type: string
+icon: cubox.png
+shell script file: sendToCubox.sh
+# end
