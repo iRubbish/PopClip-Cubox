@@ -2,7 +2,7 @@
 
 ### 使用说明
 
-1. 下载包 [👉🏻](https://github.com/iRubbish/PopClip-Cubox/releases/download/0.0.1/Cubox.popclipext.zip)
+1. 下载包 [👉🏻点我下载](https://github.com/iRubbish/PopClip-Cubox/releases/download/0.0.1/Cubox.popclipext.zip)
 2. 解压软件包
 3. 双击`Cubox.popclipext`，安装插件；
 4. 在稍后提示的`Cubox API 链接`参数框中填入你的Cubox的完整API链接，例如`https://cubox.pro/c/api/save/YOUR_CUBOX_API`；
